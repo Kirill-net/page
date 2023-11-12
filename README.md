@@ -1,11 +1,9 @@
 # Щербаков Кирилл Борисович
-
-Мне 44 года.   
+- ![foto](/foto/foto2023.JPG)
+Мне 44 года   
 Я проживаю в Санкт-Петебурге    
-- [электронный адрес](scherbakovKirill@yandex.ru)
- - телефон +79217807796
-- ![foto](https://github.com/Kirill-net/git-2-homeworks-pr/blob/main/img/pexels-drops.jpeg)
-
+- (scherbakovKirill@yandex.ru)
+- телефон +79217807796
 ## Образование:  
 Высшее
 
