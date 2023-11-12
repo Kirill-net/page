@@ -2,7 +2,7 @@
 - ![foto](/foto/foto2023.JPG)
 Мне 44 года   
 Я проживаю в Санкт-Петебурге    
-- (scherbakovKirill@yandex.ru)
+- scherbakovKirill@yandex.ru
 - телефон +79217807796
 
 ## Образование:  
