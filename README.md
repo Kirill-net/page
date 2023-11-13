@@ -4,7 +4,7 @@
 
 Мне 44 года.  Живу в Санкт-Петебурге    
 
-- (scherbakovKirill@yandex.ru)
+- [scherbakovKirill@yandex.ru](scherbakovKirill@yandex.ru)
 - телефон +79217807796
 
 ## Образование:  
