@@ -1,5 +1,5 @@
 # Щербаков Кирилл Борисович
-- ![foto](/foto/)
+- ![foto](/foto/foto2023.jpg)
 Мне 44 года   
 Живу в Санкт-Петебурге    
 - (scherbakovKirill@yandex.ru)
